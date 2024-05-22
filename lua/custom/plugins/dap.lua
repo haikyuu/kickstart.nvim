@@ -7,6 +7,7 @@ return {
       'theHamsta/nvim-dap-virtual-text',
       'nvim-neotest/nvim-nio',
       'williamboman/mason.nvim',
+      'MunifTanjim/nui.nvim',
       'jbyuki/one-small-step-for-vimkind',
     },
     config = function()
